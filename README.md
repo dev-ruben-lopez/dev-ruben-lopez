@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dev-ruben-lopez
-- 👀 I’m interested in software architecture, data enginering, automation
-- 🌱 I’m currently learning software architecture
+- 👀 This is my personal github where I put my projects and workshops solutions. I’m interested in software architecture development and automation.
 
 
 <!---
